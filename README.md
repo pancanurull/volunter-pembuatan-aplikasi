@@ -7,6 +7,4 @@ Silahkan gunakan format berikut: <br>
 
 Berikut adalah daftar Volunter yang diterima:
 
-*Oon Arfiandwi, [oo.or.id](https://oo.or.id)<br>
-*Mikasa Ackerman, [Linkdln](https://www.linkedin.com/in/panca-nurul/)
-
+*Oon Arfiandwi, [oo.or.id] (https://oo.or.id)
